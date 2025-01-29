@@ -11,7 +11,7 @@ This project is a responsive profile card created as part of the HNG Internship 
 - All required elements with proper data-testid attributes for testing
 
 ## Live Demo
-[View Live Demo]((https://muhammadtt97.github.io/hng12-zero/))
+[View Live Demo]([https://muhammadtt97.github.io/hng12-zero/])
 
 ## Technical Details
 
